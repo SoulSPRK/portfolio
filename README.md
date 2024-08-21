@@ -1,6 +1,7 @@
+# Prospective Data Analyst
 ### Education
-Associates Degree in Mathematics from Prairie State College
-Bachelors Degree in Mathematics from Governors State University
+Associate degree in Mathematics from Prairie State College
+Bachelor's Degree in Mathematics from Governors State University
 
 ### Projects
 Project 1
